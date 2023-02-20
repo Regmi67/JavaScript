@@ -1,4 +1,4 @@
-for (var num = 1; i < 101; num++) {
+for (var num = 1; num < 101; num++) {
   if (num % 15 == 0) {
     console.log("FizzBuzz");
   } else if (num % 5 == 0) {
