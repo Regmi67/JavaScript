@@ -1,0 +1,49 @@
+.cointainer {
+  width: 1080px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.header {
+  min-height: 50px;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px;
+  margin: 20px;
+  margin: 0 auto;
+}
+.right-column {
+  height: 150px;
+}
+.left-column {
+  margin-right: 40px;
+}
+.bottomleft {
+  margin-top: 40px;
+  outline: 2px solid black;
+}
+.topleft {
+  outline: 2px solid black;
+}
+.center,
+.center1 {
+  display: flex;
+}
+.defe,
+.defen {
+  margin-left: 20px;
+}
+.top-right {
+  outline: 2px solid black;
+}
+.like {
+  background: yellow;
+  box-shadow: 5px;
+  margin-bottom: 5px;
+}
+.definition {
+  background-color: yellowgreen;
+  margin-bottom: 5px;
+}
