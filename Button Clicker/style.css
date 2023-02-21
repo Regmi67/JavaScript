@@ -13,12 +13,14 @@
   gap: 20px;
   margin: 20px;
   margin: 0 auto;
+  width: 50%;
 }
 .right-column {
   height: 150px;
 }
 .left-column {
   margin-right: 40px;
+  width: 500px;
 }
 .bottomleft {
   margin-top: 40px;
